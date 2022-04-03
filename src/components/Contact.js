@@ -6,12 +6,12 @@ const Contact = ()=>{
     // Initialize and add the map
     
     return (
-        <div className='border border-dark p-3 container'>
+        <div className='contact border border-dark p-3'  id='contact'>
             <h2>Contact Me</h2>
             {
             //this is the form section
             }
-            <div className='row border border-dark p-2 '>
+            <div className='row border border-dark p-2'>
                 <div className='col-lg border border-dark p-3 m-2'>
                     <form action="" className='p-1'>
                         <input type="text" className='w-50' placeholder='Your name' />
