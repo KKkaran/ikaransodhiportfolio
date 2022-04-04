@@ -10,7 +10,7 @@ const About = ()=>{
                 <h1>some some cool guy</h1>
 
                 <div>
-                    <button className="btn btn-danger p-3">CONTACT ME</button>
+                    <button className="btn btn-danger"><a href="#contact" className="contactLink">Contact</a></button>
                 </div>
             </div>
         </div>

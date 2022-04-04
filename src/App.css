@@ -42,6 +42,18 @@
 .abt-content{
   margin-bottom: 200px;
 }
+.contactLink{
+
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.contactLink:hover{
+  color: white;
+  
+}
 .contact{
   height: 100vh;
 }
